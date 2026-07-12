@@ -1,0 +1,15 @@
+{
+  "name": "car-combat-relay",
+  "version": "1.0.0",
+  "description": "سيرفر ريلاي بسيط لدعم غرف أونلاين للعبة Car Combat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
